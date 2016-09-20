@@ -1,0 +1,13 @@
+{
+  "name": "Nitrogen Interactive",
+  "version": "0.0.1",
+  "description": "nitrogen in agricultural sciences interactive",
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "Adrian Aguirre",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
