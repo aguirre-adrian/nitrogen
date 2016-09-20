@@ -4,7 +4,7 @@
   "description": "nitrogen in agricultural sciences interactive",
   "repository": {
     "type": "git",
-    "url": "?.git"
+    "url": "https://github.com/aguirre-adrian/nitrogen.git"
   },
   "author": "Adrian Aguirre",
   "devDependencies": {
